@@ -1,0 +1,217 @@
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93021f
+INFO Thread-7 com.hawk.lock.OrderService - Thread-7 创建了订单号 : [2019-05-09-17-10-38|47]
+INFO ZkClient-EventThread-23-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-7 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301f2 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301f2
+INFO Thread-133 com.hawk.lock.OrderService - Thread-133 创建了订单号 : [2019-05-09-17-10-38|48]
+INFO ZkClient-EventThread-275-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-133 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930231 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930231
+INFO Thread-77 com.hawk.lock.OrderService - Thread-77 创建了订单号 : [2019-05-09-17-10-38|49]
+INFO ZkClient-EventThread-163-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-77 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930215 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930215
+INFO Thread-37 com.hawk.lock.OrderService - Thread-37 创建了订单号 : [2019-05-09-17-10-38|50]
+INFO ZkClient-EventThread-83-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-37 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930201 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930201
+INFO Thread-79 com.hawk.lock.OrderService - Thread-79 创建了订单号 : [2019-05-09-17-10-38|51]
+INFO ZkClient-EventThread-167-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-79 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930216 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930216
+INFO Thread-35 com.hawk.lock.OrderService - Thread-35 创建了订单号 : [2019-05-09-17-10-38|52]
+INFO ZkClient-EventThread-79-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-35 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930200 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930200
+INFO Thread-195 com.hawk.lock.OrderService - Thread-195 创建了订单号 : [2019-05-09-17-10-38|53]
+INFO ZkClient-EventThread-399-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-195 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930250 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930250
+INFO Thread-31 com.hawk.lock.OrderService - Thread-31 创建了订单号 : [2019-05-09-17-10-38|54]
+INFO ZkClient-EventThread-71-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-31 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301fe closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301fe
+INFO Thread-173 com.hawk.lock.OrderService - Thread-173 创建了订单号 : [2019-05-09-17-10-38|55]
+INFO ZkClient-EventThread-355-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-173 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930245 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930245
+INFO Thread-125 com.hawk.lock.OrderService - Thread-125 创建了订单号 : [2019-05-09-17-10-38|56]
+INFO ZkClient-EventThread-259-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-125 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93022d closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93022d
+INFO Thread-129 com.hawk.lock.OrderService - Thread-129 创建了订单号 : [2019-05-09-17-10-38|57]
+INFO ZkClient-EventThread-267-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-129 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93022f closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93022f
+INFO Thread-183 com.hawk.lock.OrderService - Thread-183 创建了订单号 : [2019-05-09-17-10-38|58]
+INFO ZkClient-EventThread-375-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-183 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93024a closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93024a
+INFO Thread-145 com.hawk.lock.OrderService - Thread-145 创建了订单号 : [2019-05-09-17-10-39|59]
+INFO ZkClient-EventThread-299-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-145 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930237 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930237
+INFO Thread-161 com.hawk.lock.OrderService - Thread-161 创建了订单号 : [2019-05-09-17-10-39|60]
+INFO ZkClient-EventThread-331-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-161 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93023f closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93023f
+INFO Thread-5 com.hawk.lock.OrderService - Thread-5 创建了订单号 : [2019-05-09-17-10-39|61]
+INFO ZkClient-EventThread-19-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-5 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301f1 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301f1
+INFO Thread-191 com.hawk.lock.OrderService - Thread-191 创建了订单号 : [2019-05-09-17-10-39|62]
+INFO ZkClient-EventThread-391-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-191 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93024e closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93024e
+INFO Thread-73 com.hawk.lock.OrderService - Thread-73 创建了订单号 : [2019-05-09-17-10-39|63]
+INFO ZkClient-EventThread-155-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-73 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930213 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930213
+INFO Thread-55 com.hawk.lock.OrderService - Thread-55 创建了订单号 : [2019-05-09-17-10-39|64]
+INFO ZkClient-EventThread-119-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-55 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93020a closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93020a
+INFO Thread-85 com.hawk.lock.OrderService - Thread-85 创建了订单号 : [2019-05-09-17-10-39|65]
+INFO ZkClient-EventThread-179-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-85 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930219 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930219
+INFO Thread-163 com.hawk.lock.OrderService - Thread-163 创建了订单号 : [2019-05-09-17-10-39|66]
+INFO ZkClient-EventThread-335-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-163 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930240 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930240
+INFO Thread-127 com.hawk.lock.OrderService - Thread-127 创建了订单号 : [2019-05-09-17-10-39|67]
+INFO ZkClient-EventThread-263-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-127 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93022e closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93022e
+INFO Thread-103 com.hawk.lock.OrderService - Thread-103 创建了订单号 : [2019-05-09-17-10-39|68]
+INFO ZkClient-EventThread-215-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-103 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930222 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930222
+INFO Thread-61 com.hawk.lock.OrderService - Thread-61 创建了订单号 : [2019-05-09-17-10-39|69]
+INFO ZkClient-EventThread-131-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-61 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93020d closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93020d
+INFO Thread-117 com.hawk.lock.OrderService - Thread-117 创建了订单号 : [2019-05-09-17-10-39|70]
+INFO ZkClient-EventThread-243-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-117 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930229 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930229
+INFO Thread-141 com.hawk.lock.OrderService - Thread-141 创建了订单号 : [2019-05-09-17-10-39|71]
+INFO ZkClient-EventThread-291-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-141 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930235 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930235
+INFO Thread-131 com.hawk.lock.OrderService - Thread-131 创建了订单号 : [2019-05-09-17-10-39|72]
+INFO ZkClient-EventThread-271-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-131 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930230 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930230
+INFO Thread-167 com.hawk.lock.OrderService - Thread-167 创建了订单号 : [2019-05-09-17-10-39|73]
+INFO ZkClient-EventThread-343-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-167 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930242 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930242
+INFO Thread-39 com.hawk.lock.OrderService - Thread-39 创建了订单号 : [2019-05-09-17-10-39|74]
+INFO ZkClient-EventThread-87-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-39 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930202 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930202
+INFO Thread-147 com.hawk.lock.OrderService - Thread-147 创建了订单号 : [2019-05-09-17-10-39|75]
+INFO ZkClient-EventThread-303-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-147 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930238 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930238
+INFO Thread-107 com.hawk.lock.OrderService - Thread-107 创建了订单号 : [2019-05-09-17-10-39|76]
+INFO ZkClient-EventThread-223-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-107 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930224 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930224
+INFO Thread-175 com.hawk.lock.OrderService - Thread-175 创建了订单号 : [2019-05-09-17-10-39|77]
+INFO ZkClient-EventThread-359-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-175 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930246 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930246
+INFO Thread-155 com.hawk.lock.OrderService - Thread-155 创建了订单号 : [2019-05-09-17-10-39|78]
+INFO ZkClient-EventThread-319-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-155 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93023c closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93023c
+INFO Thread-45 com.hawk.lock.OrderService - Thread-45 创建了订单号 : [2019-05-09-17-10-39|79]
+INFO ZkClient-EventThread-99-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-45 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930205 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930205
+INFO Thread-23 com.hawk.lock.OrderService - Thread-23 创建了订单号 : [2019-05-09-17-10-39|80]
+INFO ZkClient-EventThread-55-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-23 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301fa closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301fa
+INFO Thread-25 com.hawk.lock.OrderService - Thread-25 创建了订单号 : [2019-05-09-17-10-39|81]
+INFO ZkClient-EventThread-59-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-25 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301fb closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301fb
+INFO Thread-33 com.hawk.lock.OrderService - Thread-33 创建了订单号 : [2019-05-09-17-10-39|82]
+INFO ZkClient-EventThread-75-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-33 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301ff closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301ff
+INFO Thread-169 com.hawk.lock.OrderService - Thread-169 创建了订单号 : [2019-05-09-17-10-39|83]
+INFO ZkClient-EventThread-347-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-169 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930243 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930243
+INFO Thread-87 com.hawk.lock.OrderService - Thread-87 创建了订单号 : [2019-05-09-17-10-39|84]
+INFO ZkClient-EventThread-183-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-87 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93021a closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93021a
+INFO Thread-99 com.hawk.lock.OrderService - Thread-99 创建了订单号 : [2019-05-09-17-10-39|85]
+INFO ZkClient-EventThread-207-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-99 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930220 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930220
+INFO Thread-121 com.hawk.lock.OrderService - Thread-121 创建了订单号 : [2019-05-09-17-10-39|86]
+INFO ZkClient-EventThread-251-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-121 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93022b closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93022b
+INFO Thread-57 com.hawk.lock.OrderService - Thread-57 创建了订单号 : [2019-05-09-17-10-39|87]
+INFO ZkClient-EventThread-123-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-57 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93020b closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93020b
+INFO Thread-153 com.hawk.lock.OrderService - Thread-153 创建了订单号 : [2019-05-09-17-10-39|88]
+INFO ZkClient-EventThread-315-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-153 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93023b closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93023b
+INFO Thread-81 com.hawk.lock.OrderService - Thread-81 创建了订单号 : [2019-05-09-17-10-39|89]
+INFO ZkClient-EventThread-171-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-81 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930217 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930217
+INFO Thread-197 com.hawk.lock.OrderService - Thread-197 创建了订单号 : [2019-05-09-17-10-39|90]
+INFO ZkClient-EventThread-403-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-197 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930251 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930251
+INFO Thread-11 com.hawk.lock.OrderService - Thread-11 创建了订单号 : [2019-05-09-17-10-39|91]
+INFO ZkClient-EventThread-31-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-11 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301f4 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301f4
+INFO Thread-115 com.hawk.lock.OrderService - Thread-115 创建了订单号 : [2019-05-09-17-10-39|92]
+INFO ZkClient-EventThread-239-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-115 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930228 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930228
+INFO Thread-157 com.hawk.lock.OrderService - Thread-157 创建了订单号 : [2019-05-09-17-10-39|93]
+INFO ZkClient-EventThread-323-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-157 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93023d closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93023d
+INFO Thread-49 com.hawk.lock.OrderService - Thread-49 创建了订单号 : [2019-05-09-17-10-39|94]
+INFO ZkClient-EventThread-107-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-49 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930207 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930207
+INFO Thread-17 com.hawk.lock.OrderService - Thread-17 创建了订单号 : [2019-05-09-17-10-39|95]
+INFO ZkClient-EventThread-43-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-17 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301f7 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301f7
+INFO Thread-29 com.hawk.lock.OrderService - Thread-29 创建了订单号 : [2019-05-09-17-10-39|96]
+INFO ZkClient-EventThread-67-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-29 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301fd closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301fd
+INFO Thread-101 com.hawk.lock.OrderService - Thread-101 创建了订单号 : [2019-05-09-17-10-39|97]
+INFO ZkClient-EventThread-211-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-101 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930221 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930221
+INFO Thread-19 com.hawk.lock.OrderService - Thread-19 创建了订单号 : [2019-05-09-17-10-39|98]
+INFO ZkClient-EventThread-47-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-19 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a9301f8 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a9301f8
+INFO Thread-159 com.hawk.lock.OrderService - Thread-159 创建了订单号 : [2019-05-09-17-10-39|99]
+INFO ZkClient-EventThread-327-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-159 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a93023e closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a93023e
+INFO Thread-67 com.hawk.lock.OrderService - Thread-67 创建了订单号 : [2019-05-09-17-10-40|100]
+INFO ZkClient-EventThread-143-192.168.220.98:2181 org.I0Itec.zkclient.ZkEventThread - Terminate ZkClient event thread.
+INFO Thread-67 org.apache.zookeeper.ZooKeeper - Session: 0x10007502a930210 closed
+INFO main-EventThread org.apache.zookeeper.ClientCnxn - EventThread shut down for session: 0x10007502a930210
